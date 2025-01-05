@@ -43,18 +43,14 @@ Ce projet est un petit jeu de devinettes où l'utilisateur doit deviner un nombr
 - [termcolor](https://pypi.org/project/termcolor/) pour ajouter des couleurs aux messages affichés dans le terminal.
 
 ### Étapes
-1. Clonez ce dépôt sur votre machine locale :
+1. Installation de python : 
 
    ```bash
    pip install python
 
-2. Installez les dépendances :
+2. Installation de termcolor :
    ```bash
    pip install termcolor
-
-4. Lancez le jeu :
-   ```bash
-   python SOURCE.py
 
 ## ✨ Améliorations possibles
 
